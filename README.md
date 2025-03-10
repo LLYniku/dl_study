@@ -12,6 +12,12 @@ SGDScheduleFree
 ## 与SGD进行比较
 
 ![image](https://github.com/user-attachments/assets/917c7cfd-93a5-415f-8838-280dabc1a6b3)
+
+
 传统的SGD最终的训练损失是0.389，测试精确度是0.838
+
+
 ![image](https://github.com/user-attachments/assets/7c9678ca-4ba6-4425-bd3c-0f6bf7d73fd5)
+
+
 使用Less Scheduled后训练损失是0.287，测试精确度是0.868
